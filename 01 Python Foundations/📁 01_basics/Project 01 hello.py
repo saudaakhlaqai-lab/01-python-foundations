@@ -1,0 +1,6 @@
+Name = ("My name is Sauda")
+Profession = (" I want to become AI Automation Specialist")
+Goal = ("One day I will build system that will save people's time.")
+print(Name)
+print(Profession)
+print(Goal)

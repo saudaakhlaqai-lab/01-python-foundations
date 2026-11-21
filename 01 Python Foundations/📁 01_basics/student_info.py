@@ -1,0 +1,11 @@
+print("====Student Information====")
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+profession = input ("Enter your profession: ")
+dream_job = input("Enter your dream Job: ")
+
+print("\n ===Your Details===")
+print("Name:", name)
+print("Age:", age)
+print("profession:", profession)
+print("Dream job:", dream_job)

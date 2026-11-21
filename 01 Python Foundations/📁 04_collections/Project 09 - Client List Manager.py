@@ -1,0 +1,18 @@
+clients =[]
+print("Welcome to client list manager")
+
+client1 = input("Enter  the first client's name: ")
+client2 = input("Enter the second client's name: ")
+client3 = input("Enter the third client's name: ")
+clients4 = input("Enter the fourth client's name: ")
+client5 = input("Enter the fifth client's name:")
+clients.append(client1)
+clients.append(client2)
+clients.append(client3)
+clients.append(clients4)
+clients.append(client5)
+clients.append("JOHN DOE")
+print()
+print("Today's clients are:")
+print(clients)
+print(len(clients))
